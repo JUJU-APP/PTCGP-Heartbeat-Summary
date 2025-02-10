@@ -10,7 +10,7 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 TARGET_USER_ID = 1337695424399802438  # Replace with the webhook's user-ID. (This should be a number, not a link)
 SOURCE_CHANNEL_ID = 1337609937521479721  # Replace with the channel to read messages from. (This should be a number, not a link)
 DESTINATION_CHANNEL_ID = 1338228408055762974  # Replace with the channel to send messages to. (This should be a number, not a link)
-YOUR_BOT_TOKEN = "MTMzODIyNjQwOTAyNTMwNjY2Ng.G5-Xpw.vkNU-oI5iE6bueZluZSoy3fjY0ZjOAOhMTKfgw"  # Replace with your discord bot's token
+YOUR_BOT_TOKEN = "Discord Bot Token"  # Replace with your discord bot's token
 
 user_messages = {}
 allowed_mentions = discord.AllowedMentions(users=False)

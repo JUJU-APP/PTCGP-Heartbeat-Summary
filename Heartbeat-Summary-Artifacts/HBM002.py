@@ -17,7 +17,7 @@ TARGET_USER_ID = 1337695424399802438  # Replace with the user's ID
 SOURCE_CHANNEL_ID = 1337609937521479721  # Replace with the channel to read messages from
 DESTINATION_CHANNEL_ID = 1338228408055762974  # Replace with the channel to send messages to
 WARNING_CHANNEL_ID = 1338228408055762974  # Replace with the warning channel's ID
-YOUR_BOT_TOKEN = "MTMzODIyNjQwOTAyNTMwNjY2Ng.G5-Xpw.vkNU-oI5iE6bueZluZSoy3fjY0ZjOAOhMTKfgw"  # Replace with your bot's token
+YOUR_BOT_TOKEN = "Discord Bot Token"  # Replace with your bot's token
 
 edit_loop_timer = 60  # In seconds, how often the status message should update itself.
 offline_timer = 60 * 33  # In seconds, default 33 min given that each heart beats comes every 30 min.
